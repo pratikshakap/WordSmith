@@ -1,0 +1,33 @@
+#index-page
+{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.428571429;
+  color: #333333;
+  background-image: url('typewriter.jpg');
+  background-size: 1440px 800px;
+  background-repeat:no-repeat;
+  display: compact;
+}
+#mybutton .btn-primary {
+ 
+  background-color: #00933B;
+  border-color: #00933B;
+}
+#mybutton .btn-primary:hover,
+#mybutton .btn-primary:focus,
+#mybutton.btn-primary:active,
+#mybutton.btn-primary.active,
+#mybutton.open .dropdown-toggle.btn-primary {
+  
+  background-color: #00933B;
+  border-color: #00933B;
+}
+#myform.form-control:focus {
+  border-color: #00933B;
+  border-width: 2 px;
+  
+}
+#myform.form-control{
+	border:2px;
+}
